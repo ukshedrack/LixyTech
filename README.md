@@ -1,5 +1,5 @@
 # LixyTech
-Simple JavaScript Web Application
+Simple JavaScript Web Application (To launch the website, please follow the link https://ukshedrack.github.io/LixyTech/)
 
 This is a web application that displays multiplication of prime numbers. 
 At the beginning is an instruction with an input tag and button tag.
